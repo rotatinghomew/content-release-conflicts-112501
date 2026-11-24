@@ -1,0 +1,20 @@
+[
+  {
+    "event_id": "content_release_conflicts-e01",
+    "entity_id": "content_release_conflicts-x01",
+    "value": 12,
+    "quality": "complete"
+  },
+  {
+    "event_id": "content_release_conflicts-e02",
+    "entity_id": "content_release_conflicts-x02",
+    "value": 8,
+    "quality": "partial"
+  },
+  {
+    "event_id": "content_release_conflicts-e04",
+    "entity_id": "content_release_conflicts-x03",
+    "value": null,
+    "quality": "missing"
+  }
+]
